@@ -1,4 +1,4 @@
-package io.github.uv_lab.nerdlauncher;
+package io.github.uv_lab.draganddraw;
 
 import android.os.Bundle;
 import android.support.annotation.LayoutRes;
