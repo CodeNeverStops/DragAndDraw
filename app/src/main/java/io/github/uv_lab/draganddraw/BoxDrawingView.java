@@ -33,6 +33,7 @@ public class BoxDrawingView extends View {
 
     public BoxDrawingView(Context context, AttributeSet attrs) {
         super(context, attrs);
+        Log.i("box", "BoxDrawingView");
 
         mBoxPaint = new Paint();
         mBoxPaint.setColor(0x22ff0000); // ARGB
